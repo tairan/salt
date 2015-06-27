@@ -1,0 +1,10 @@
+
+[saltstack-zeromq4]
+name=Copr repo for zeromq4 owned by saltstack
+skip_if_unvavilable=True
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/saltstack/zeromq4/pubkey.gpg
+enabled=1
+baseurl=https://copr-be.cloud.fedoraproject.org/results/saltstack/zeromq4/epel-$releasever-$basearch/
+humanname=Copr repo for zeromq4 owned by saltstack
+gpgcheck=1
+
