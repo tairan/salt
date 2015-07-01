@@ -1,5 +1,5 @@
 include:
-  - yum
+  - yum.internal
 
 core:
   pkg.latest:
