@@ -1,6 +1,3 @@
-include:
-  - yum.absent
-
 base:
   pkgrepo.managed:
     - humanname: CentOS-$releasever - Base
