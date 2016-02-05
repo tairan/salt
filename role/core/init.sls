@@ -1,5 +1,6 @@
 include:
   - epel
+  - pkgrepo
 
 core:
   pkg.latest:
