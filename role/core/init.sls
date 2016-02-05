@@ -1,5 +1,5 @@
 include:
-  - yum
+  - epel
 
 core:
   pkg.latest:
