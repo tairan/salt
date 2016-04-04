@@ -1,7 +1,3 @@
-include:
-  - epel
-  - pkgrepo
-
 core:
   pkg.latest:
     - pkgs:
@@ -9,4 +5,3 @@ core:
         - wget
         - emacs-nox
         - vim-enhanced
-        - net-tools
