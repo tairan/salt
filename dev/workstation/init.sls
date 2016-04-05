@@ -1,3 +1,3 @@
 workstation:
-  pkg.group_install:
-    - 'Development Tools'
+  pkg.group_installed:
+    - name: 'Development Tools'
