@@ -4,5 +4,5 @@ base:
 
 dev:
   '*':
-    - role.core
+    - workstation
 
